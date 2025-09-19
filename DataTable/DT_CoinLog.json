@@ -1,0 +1,542 @@
+[
+	{
+		"Name": "1",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/1.1",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "2",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/2.2",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "3",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/3.3",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "4",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/4.4",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "5",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/5.5",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "6",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/6.6",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "7",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/7.7",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "8",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/8.8",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "9",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/9.9",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "10",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/10.10",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "11",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/11.11",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "12",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/12.12",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "13",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/13.13",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "14",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/14.14",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "15",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/15.15",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "16",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/16.16",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "17",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/17.17",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "18",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/18.18",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "19",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/19.19",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "20",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/20.20",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "21",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/21.21",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "22",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/22.22",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "23",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/23.23",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "24",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/24.24",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "25",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/25.25",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "26",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/26.26",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "27",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/27.27",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "28",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/28.28",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "29",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/29.29",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "30",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/30.30",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "31",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/31.31",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "32",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/32.32",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "33",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/33.33",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "34",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/34.34",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "35",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/35.35",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "36",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/36.36",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "37",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/37.37",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "38",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/38.38",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "39",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/39.39",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "40",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/40.40",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "41",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/41.41",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "42",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/42.42",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "43",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/43.43",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "44",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/44.44",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "45",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/45.45",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "46",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/46.46",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "47",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/47.47",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "48",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/48.48",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "49",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/49.49",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "50",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/50.50",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "51",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/51.51",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "52",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/52.52",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "53",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/53.53",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "54",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/54.54",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "55",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/55.55",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "56",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/56.56",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "57",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/57.57",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "58",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/58.58",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "59",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/59.59",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "60",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerGrade/60.60",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	}
+]

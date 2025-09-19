@@ -1,0 +1,38 @@
+[
+	{
+		"Name": "0",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerItems/Ticket/0x125000c0.0x125000c0",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "1",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerItems/Other/0x13330040.0x13330040",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "2",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerItems/Other/0x12608b30A.0x12608b30A",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	},
+	{
+		"Name": "3",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/PlayerItems/Other/0x13320060.0x13320060",
+			"SubPathString": ""
+		},
+		"TextureInstance": "None"
+	}
+]

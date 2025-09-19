@@ -1,0 +1,130 @@
+[
+	{
+		"Name": "1",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/1.1",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "2",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/2.2",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "3",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/3.3",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "4",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/4.4",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "5",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/5.5",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "6",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/6.6",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "7",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/7.7",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "8",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/8.8",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "9",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/9.9",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "10",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/10.10",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "11",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/11.11",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "12",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/12.12",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "13",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/13.13",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "14",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/14.14",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "15",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/15.15",
+			"SubPathString": ""
+		}
+	},
+	{
+		"Name": "16",
+		"Texture":
+		{
+			"AssetPathName": "/Game/Resource/Texture/CardGrade/16.16",
+			"SubPathString": ""
+		}
+	}
+]

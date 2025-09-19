@@ -1,0 +1,121 @@
+[
+	{
+		"Name": "Global",
+		"UI":
+		{
+			"GameInfor": "/Game/Resource/BP/Game/UI/BPUI_GameInfor.BPUI_GameInfor_C",
+			"GameTask": "/Game/Resource/BP/Game/UI/BP_GameTask.BP_GameTask_C",
+			"TaskFinishTip": "/Game/Resource/BP/Game/UI/UI_Tip/BP_TasjFinish.BP_TasjFinish_C",
+			"NewLevelTip": "/Game/Resource/BP/Game/UI/UI_Tip/BP_NewMap.BP_NewMap_C",
+			"NewItemShow": "/Game/Resource/BP/Game/UI/BP_NewItemPanel.BP_NewItemPanel_C",
+			"DialogueInfor": "/Game/Resource/BP/Game/UI/Dialogue/BP_DialogueInfor.BP_DialogueInfor_C",
+			"MainFrame": "/Game/Resource/BP/Game/UI/BPUI_MainFrame.BPUI_MainFrame_C",
+			"GameWorldMap": "/Game/Resource/BP/Game/GameMap/GameWorldMap.GameWorldMap_C",
+			"Notice": "/Game/Resource/BP/Game/UI/BPUI_Notice.BPUI_Notice_C",
+			"GameSetting": "/Game/Resource/BP/Game/UI/UIGameSetting.UIGameSetting_C",
+			"OpenGame": "/Game/Resource/BP/Game/InGame/OpenGame.OpenGame_C",
+			"InGame": "/Game/Resource/BP/Game/InGame/UI_InGame.UI_InGame_C",
+			"GameTest": "/Game/Resource/BP/Game/UI/GameTest.GameTest_C",
+			"GamePrepare": "/Game/Resource/BP/Game/GamePrepare/BPUI_GamePrepare.BPUI_GamePrepare_C",
+			"ItemTitleTip": "/Game/Resource/BP/Game/UI/UI_Tip/BPUI_ItemTitleTip.BPUI_ItemTitleTip_C",
+			"Synthesis": "/Game/Resource/BP/Game/UI/SynthesisLab/BP_UIPlayerSynthesis.BP_UIPlayerSynthesis_C",
+			"Dialogue": "/Game/Resource/BP/Game/UI/BP_Dialogue.BP_Dialogue_C",
+			"Mail": "/Game/Resource/BP/Game/UI/BPUI_MailPanel.BPUI_MailPanel_C",
+			"PlayerBag": "/Game/Resource/BP/Game/UI/BPUIPlayerBag.BPUIPlayerBag_C",
+			"Pay": "/Game/Resource/BP/Game/UI/UI_Tip/UI_BuyItem_Tip.UI_BuyItem_Tip_C",
+			"SelectTip": "/Game/Resource/BP/Game/UI/UI_Tip/UI_SelectTip.UI_SelectTip_C",
+			"NotUnlockedItemTip": "/Game/Resource/BP/Game/UI/UI_Tip/BPUI_NotUnlockedItemTip.BPUI_NotUnlockedItemTip_C"
+		}
+	},
+	{
+		"Name": "WorldMap",
+		"UI":
+		{
+			"MainMap": "/Game/Resource/BP/Game/GameMap/MainMap.MainMap_C",
+			"Map1": "/Game/Resource/BP/Game/GameMap/Map_000.Map_000_C",
+			"Map2": "/Game/Resource/BP/Game/GameMap/Map_001.Map_001_C",
+			"Map3": "/Game/Resource/BP/Game/GameMap/Map_003.Map_003_C",
+			"Map4": "/Game/Resource/BP/Game/GameMap/Map_004.Map_004_C",
+			"Map5": "/Game/Resource/BP/Game/GameMap/Map_005.Map_005_C"
+		}
+	},
+	{
+		"Name": "Setting",
+		"UI":
+		{
+			"SettingButtonTab": "/Game/Resource/BP/Game/UI/UI_Setting/BPUI_SettingButtonTab.BPUI_SettingButtonTab_C"
+		}
+	},
+	{
+		"Name": "PlayerBag",
+		"UI":
+		{
+			"CardGrid": "/Game/Resource/BP/Game/UI/Bag/Grid/BPUI_PlayerBagCardGrid.BPUI_PlayerBagCardGrid_C",
+			"EquipmentGrid": "/Game/Resource/BP/Game/UI/Bag/Grid/Equip/BPUI_PlayerBagEquipmentGrid.BPUI_PlayerBagEquipmentGrid_C",
+			"MaterialGrid": "/Game/Resource/BP/Game/UI/Bag/Grid/BP_PlayerBagMaterialGrid.BP_PlayerBagMaterialGrid_C",
+			"PlayerShow": "/Game/Resource/BP/Game/UI/MainFrame/BP_PlayerShow.BP_PlayerShow_C",
+			"ItemTip": "/Game/Resource/BP/Game/UI/UI_Tip/ItemTip/BPUI_ItemDesTip.BPUI_ItemDesTip_C",
+			"Equipment_Bag_Grid": "/Game/Resource/BP/Game/UI/Bag/Grid/Equip/BPUI_PlayerBagEquipment_Bag_Grid.BPUI_PlayerBagEquipment_Bag_Grid_C",
+			"PlayerInforPanel": "/Game/Resource/BP/Game/UI/BPUI_PlayerInforPanel.BPUI_PlayerInforPanel_C",
+			"GiftItemTip": "/Game/Resource/BP/Game/UI/UI_Tip/ItemTip/GiftItemTip/BPUI_GiftItemTip.BPUI_GiftItemTip_C",
+			"GiftItemTip_Item": "/Game/Resource/BP/Game/UI/UI_Tip/ItemTip/GiftItemTip/BPUI_GiftItem.BPUI_GiftItem_C",
+			"Arrangement": "/Game/Resource/BP/Game/UI/Bag/Arrangement/BPUI_Arrangement.BPUI_Arrangement_C",
+			"ArrangementItem": "/Game/Resource/BP/Game/UI/Bag/Arrangement/BPUI_ArrangeItem.BPUI_ArrangeItem_C",
+			"ArrangementSetting": "/Game/Resource/BP/Game/UI/Bag/Arrangement/BPUI_ArrangeSecondMenu.BPUI_ArrangeSecondMenu_C",
+			"SkillBookTab": "/Game/Resource/BP/Game/UI/MainFrame/BPUI_PlayerCardSkills_Table.BPUI_PlayerCardSkills_Table_C",
+			"ItemCardTip": "/Game/Resource/BP/Game/UI/UI_Tip/ItemTip/BPUI_CardItemDesTip.BPUI_CardItemDesTip_C"
+		}
+	},
+	{
+		"Name": "GameVs",
+		"UI":
+		{
+			"PlayPlayerTip": "/Game/Resource/BP/GameStart/VS/UI_Player/Tips/BPUI_PlayerPlayTips.BPUI_PlayerPlayTips_C",
+			"BottomTextTip": "/Game/Resource/BP/Game/UI/UI_Tip/BPUI_BottomTip.BPUI_BottomTip_C",
+			"GameTimer": "/Game/Resource/BP/GameStart/VS/UI_Player/Tips/BPUI_Timer.BPUI_Timer_C",
+			"GameOver": "/Game/Resource/BP/GameStart/VS/UI_Player/BP_UI_GameOver.BP_UI_GameOver_C",
+			"GamePlayerHead": "/Game/Resource/BP/GameStart/VS/UI_Player/BP_PlayerHead.BP_PlayerHead_C",
+			"CardBar": "/Game/Resource/BP/GameStart/VS/UI_Player/BP_UICardBar.BP_UICardBar_C",
+			"CardUI": "/Game/Resource/BP/GameStart/VS/UI_Player/UICardBad/BP_CardBoxHorizental.BP_CardBoxHorizental_C"
+		}
+	},
+	{
+		"Name": "Dialogue",
+		"UI":
+		{
+			"DialogueSelect": "/Game/Resource/BP/Game/UI/Dialogue/BP_DialogueSelect.BP_DialogueSelect_C"
+		}
+	},
+	{
+		"Name": "Mail",
+		"UI":
+		{
+			"MessageBox": "/Game/Resource/BP/Game/UI/Mail/BPUI_Mail_MessageBox.BPUI_Mail_MessageBox_C",
+			"GiftBox": "/Game/Resource/BP/Game/UI/Mail/BPUI_Mail_GiftBox.BPUI_Mail_GiftBox_C"
+		}
+	},
+	{
+		"Name": "Tip",
+		"UI":
+		{
+			"PlayerItemTipBox": "/Game/Resource/BP/Game/UI/UI_Tip/ItemTip/PlayerGetItem/BP_PlayerGetTipBox.BP_PlayerGetTipBox_C",
+			"PlayerItemTipBoxItem": "/Game/Resource/BP/Game/UI/UI_Tip/ItemTip/PlayerGetItem/BP_PlayerGetTipItem.BP_PlayerGetTipItem_C",
+			"DesTip": "/Game/Resource/BP/Game/UI/UI_Tip/ItemTip/BP_DesTip.BP_DesTip_C"
+		}
+	},
+	{
+		"Name": "Synthesis",
+		"UI":
+		{
+			"MakeCard": "/Game/Resource/BP/Game/UI/SynthesisLab/MakeCard/BP_Syn_MakeCardMainPanel.BP_Syn_MakeCardMainPanel_C",
+			"SynItemGrid": "/Game/Resource/BP/Game/UI/SynthesisLab/BPUI_SynItemGrid.BPUI_SynItemGrid_C",
+			"SynCardGrid": "/Game/Resource/BP/Game/UI/SynthesisLab/BPUI_SynCardGrid.BPUI_SynCardGrid_C",
+			"UpgradeCard": "/Game/Resource/BP/Game/UI/SynthesisLab/CardUpgrade/BP_Syn_CardUpgradeMainPanel.BP_Syn_CardUpgradeMainPanel_C",
+			"TransferCard": "/Game/Resource/BP/Game/UI/SynthesisLab/TransferCard/BP_Syn_TransferCardMainPanel.BP_Syn_TransferCardMainPanel_C",
+			"WeaponAndGem": "/Game/Resource/BP/Game/UI/SynthesisLab/Weapon/BP_Syn_WeaponMainPanel.BP_Syn_WeaponMainPanel_C",
+			"UpgradeGem": "/Game/Resource/BP/Game/UI/SynthesisLab/GemUpgarde/BP_Syn_GemUpgradeMainPanel.BP_Syn_GemUpgradeMainPanel_C",
+			"SplitGem": "/Game/Resource/BP/Game/UI/SynthesisLab/GemSplit/BP_Syn_GemSplitPanel.BP_Syn_GemSplitPanel_C",
+			"GoldCardEvolve": "/Game/Resource/BP/Game/UI/SynthesisLab/GoldCardEvolve/BP_Syn_GoldCardEvolvePanel.BP_Syn_GoldCardEvolvePanel_C"
+		}
+	}
+]
